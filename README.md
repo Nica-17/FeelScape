@@ -41,6 +41,20 @@ Current progress:
 
 ---
 
+## 🎯 What I Learned
+
+This project strengthened my experience with:
+
+- Building native Android applications using Kotlin
+- Creating modern UIs with Jetpack Compose
+- Integrating Firebase Authentication
+- Managing application state and navigation
+- Implementing Light and Dark Mode themes
+- Applying Material Design 3 principles
+- Working collaboratively using Git and GitHub
+
+---
+
 # ✨ Features
 
 - 🔐 Secure Firebase Authentication
@@ -54,7 +68,7 @@ Current progress:
 
 ---
 
-# 📱 Screenshots
+# 📱 User Interface
 
 | Home | Sign In |
 |:---:|:---:|
